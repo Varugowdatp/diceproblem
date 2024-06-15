@@ -1,6 +1,7 @@
 body{
     text-align:center;
     font-size:1.5em;
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
 }
 button{
     color:black;
